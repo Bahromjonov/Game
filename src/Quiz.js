@@ -6,31 +6,31 @@ import zebra from './assets/zebra.jfif'
 
 const arry = [
     {
-      question: "what animal is this?",
+      question: "What animal is this?",
       img:panda,
       answers: ["Bear", "Panda", "Elephand", "Tiger"],
       correctAnswer: 1,
     },
     {
-      question: "what animal is this?",
+      question: "What animal is this?",
       img:elephant,
       answers: ["Elephant", "Zebra", "Horse", "Griaffe"],
       correctAnswer: 0,
     },
     {
-      question: "what animal is this?",
+      question: "What animal is this?",
       img:lion,
       answers: ["Crocodile", "Cat", "Donkey", "Lion"],
       correctAnswer: 3,
     },
     {
-      question: "what animal is this?",
+      question: "What animal is this?",
       img:monkey,
       answers: ["Crocodile", "Monkey", "Donkey", "Lion"],
       correctAnswer: 1,
     },
     {
-      question: "what animal is this?",
+      question: "What animal is this?",
       img:zebra,
       answers: ["zebra", "Monkey", "Donkey", "Lion"],
       correctAnswer: 1,
